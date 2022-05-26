@@ -1,0 +1,22 @@
+RSA encryption:
+https://www.w3schools.com/java/java_files_create.asp
+
+https://www.baeldung.com/java-rsa
+
+https://www.devglan.com/java8/rsa-encryption-decryption-java
+
+https://www.w3schools.com/java/java_files_create.asp
+
+https://stackoverflow.com/questions/858980/file-to-byte-in-java
+
+
+Signature:
+https://niels.nu/blog/2016/java-rsa
+
+hash:
+https://howtodoinjava.com/java/java-security/sha-md5-file-checksum-hash/
+https://www.baeldung.com/sha-256-hashing-java
+
+AES:
+https://stackabuse.com/java-save-write-string-into-a-file/#files.writestring
+https://www.baeldung.com/java-aes-encryption-decryption
